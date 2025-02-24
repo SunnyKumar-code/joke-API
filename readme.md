@@ -1,6 +1,6 @@
 # 🎭 Random Jokes API
 
-A simple RESTful API built using **Node.js** and **Express**. This API returns a random joke from a list every time you hit the endpoint. Perfect for beginners learning how to build APIs with Express.
+A simple RESTful API built using **Node.js** and  **Express**. This API returns a random joke from a list every time you hit the endpoint. Perfect for beginners learning how to build APIs with Express.
 
 ---
 
